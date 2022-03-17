@@ -1,4 +1,4 @@
-run
+In the root directory run:
 
 `npm install`
 
